@@ -6,6 +6,10 @@ widget: portfolio
 # This file represents a page section.
 headless: true
 
+# remove this line if you want to add the Project to the homepage by Brian Jalaian
+active: false
+
+
 # Order that this section appears on the page.
 weight: 65
 

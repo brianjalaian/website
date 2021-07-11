@@ -3,6 +3,9 @@
 # Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
 
+# remove this line if you want to add word cloud in your website by Brian Jalaian
+active: false
+
 # This file represents a page section.
 headless: true
 

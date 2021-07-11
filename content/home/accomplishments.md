@@ -2,7 +2,8 @@
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
-
+# Remove below line if you want to show the accomplishment in the homepage by Brian Jalaian
+active: false
 # This file represents a page section.
 headless: true
 

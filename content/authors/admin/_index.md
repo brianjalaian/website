@@ -6,34 +6,37 @@ title: Brian Jalaian
 superuser: true
 
 # Role/position/tagline
-role: Adjunct Assistant Professor
+role: Senior AI Research Scientist /  Adjunct Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Virginia Tech
+- name: ARL / Virginia Tech
   url: https://www.vt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My  research interests are optimization, machine learning, and network science. In particular, I am interested in modeling predictive uncertainty in machine learning models, adversarial machine learning, network optimization and optimal decision making under uncertainty.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bayesian Inference
+- Bayesian Deep Learning
+- Uncertainty-aware AI
+- Mathematical Optimization
+- Safe Artificial Intelligence
+- Robust, Resilient and Assured Artificial Intelligence
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Electrical Engineering -  Network Optimization
+    institution: Virginia Tech
+    year: 2016
+  - course: M.Sc. in Operation Research
+    institution: Virginia Tech
+    year: 2014
+  - course: M.Sc in Electrical Engineering - Communication Systems
+    institution: Virginia Tech
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +73,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Brian Jalaian is a senior Artificial Intelligence (AI) research scientist at ARL and a adjunct research assistant professor at Virginia Tech. 
+He has obtained his Ph.D. from the Bradley Department of Electrical and Computer Engineering in 2016 at Virginia Tech. He has obtained his MS in Electrical Engineering (Network and Communication Systems)  and MS in Industrial System Engineering (Operation Research) in 2013 and 2014 at Virginia Tech, respectively. He has been serving as a senior techincal advisor on AI asurance, safety and security for mission critical applications. His research interests are the broad area of robust and resilient AI inclduingassurance, uncertainty quantification for machine learining, and deep learning.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

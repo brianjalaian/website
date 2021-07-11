@@ -2,6 +2,8 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
+# remove this line if you want to add the upcoming talks to the homepage by Brian Jalaian
+active: false
 
 # This file represents a page section.
 headless: true

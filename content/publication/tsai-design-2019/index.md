@@ -1,0 +1,13 @@
+---
+title: "Design and development of interactive intelligent medical agent"
+date: 2019-01-01
+publishDate: 2020-03-26T05:46:34.987772Z
+authors: ["S.-C. Tsai", "H. Samani", "Y.-W. Kao", "K. Zhu", "B. Jalaian"]
+publication_types: ["1"]
+abstract: "© 2018 IEEE. In this age of high technology development, a greater number of people are facing modern civilization diseases due to lifestyle changes. Fast-paced and busy lifestyles, noisy nightlife, and other various social parameters have resulted in increased disturbance during sleeping. In addition to external causes, a stressed-out mind is a source of anxiety or excitement that can lead to sleep disturbances. The aim of this research is to propose an interactive robotic system companion which could be used in the treatment of insomnia by providing various interactive services to the user. In addition to direct communication, the robot employs a variety of environmental and physiological sensors to receive feedback from a user and observe performance. One of the key modules of this system is the use of electroencephalography for monitoring sleep quality. We use an interaction design approach based on simplicity and approachability. Speech Recognition and Human-Computer Interaction are the two major parts of this research. The robot's audio channel uses Speech Recognition to communicate with the user, mostly via conversation because other forms of direct communication are not convenient for this scenario. The Human-Computer Interaction aspect includes playing suitable music (including white noise) and spraying essential oils according to different instructions. In addition to establishing multimodal interactive connection with the user, the system also provides entertainment services. The aim is for this proposed robot to act as a personal companion for people with insomnia and improve their quality of sleeping."
+featured: false
+publication: "*Proceedings - 2018 IEEE International Conference on Artificial Intelligence and Virtual Reality, AIVR 2018*"
+tags: ["EEG", "Human-computer interaction", "Insomnia treatment", "Social Robot"]
+doi: "10.1109/AIVR.2018.00049"
+---
+
