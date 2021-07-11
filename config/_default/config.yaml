@@ -3,9 +3,10 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Brian Jalaian # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'The views and conclusions contained in this website are those of the author and should not be interpreted as representing the official policies, either expressed or implied,
+of the U.S. Government. © {year} Brian Jalaian' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
