@@ -32,8 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Conduct Basic Research on Safe, Robust, and Resilient Artificial Intelligence
+        * Conduct basic research on Safe, Robust, and Resilient Artificial Intelligence
         * Design novel framework for test and evaluation of machine learning for mission critical application
+        * Technical advisor and subject matter expert on artificial intelligence assurance
 
   - title: Technical Research Lead & Research Scientist
     company: ARL
@@ -45,10 +46,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Lead Technical Researcher in uncertainty quantification for machine learning
-        * Perform basic research on adversarial machine learning 
-        * Conduct Basic Research on Safe, Robust, and Resilient Artificial Intelligence
+        * Perform basic research on adversarial machine learning and Bayesian deep learning
+        * Lead a research group focusing on uncertainty quantification for machine learning
         * Technical Research Lead for a [IoBT CRA](https://iobt.illinois.edu/)
+        * Lead a team of 15 PIs from prestigious universities, multiple Ph.D. students, and Post-docs on robust and resilient machine learning 
   - title: Adjunct Assistant Professor
     company: Virginia Tech
     company_url: 'https://www.vt.edu'
@@ -59,8 +60,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Lead Technical Researcher in uncertainty quantification for machine learning
-        * Perform basic research on adversarial machine learning
+        * Perform basic research in complex network optimization
+        * Advise Ph.D. students
+        * Teach Graduate Courses in electrical and computer engineering department
   - title: Research Assistant
     company: Complex Network & Security Research Group, Virginia Tech
     company_url: 'https://www.cnsr.ictas.vt.edu/'

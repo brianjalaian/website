@@ -18,12 +18,12 @@ bio: My  research interests are optimization, machine learning, and network scie
 
 # Interests to show in About widget
 interests:
+- Safe, Robust, Resilient and Assured Artificial Intelligence
+- Uncertainty quantification for machine learning
 - Bayesian Inference
 - Bayesian Deep Learning
-- Uncertainty-aware AI
-- Mathematical Optimization
-- Safe Artificial Intelligence
-- Robust, Resilient and Assured Artificial Intelligence
+- Optimization
+- Complex Network Optimization
 
 # Education to show in About widget
 education:
@@ -48,16 +48,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/BJalaian
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=exiqJqcAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/brianjalaian/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/brian-jalaian-8235184a/ 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -74,5 +74,5 @@ highlight_name: false
 ---
 
 Brian Jalaian is a senior Artificial Intelligence (AI) research scientist at ARL and a adjunct research assistant professor at Virginia Tech. 
-He has obtained his Ph.D. from the Bradley Department of Electrical and Computer Engineering in 2016 at Virginia Tech. He has obtained his MS in Electrical Engineering (Network and Communication Systems)  and MS in Industrial System Engineering (Operation Research) in 2013 and 2014 at Virginia Tech, respectively. He has been serving as a senior techincal advisor on AI asurance, safety and security for mission critical applications. His research interests are the broad area of robust and resilient AI inclduingassurance, uncertainty quantification for machine learining, and deep learning.
+He has obtained his Ph.D. from the Bradley Department of Electrical and Computer Engineering in 2016 at Virginia Tech. He has obtained his MS in Electrical Engineering (Network and Communication Systems)  and MS in Industrial System Engineering (Operation Research) in 2013 and 2014 at Virginia Tech, respectively. He has been serving as a subject matter expert on AI assurance, safety and security for mission critical applications. His research interests are the broad area of robust and resilient AI including uncertainty quantification for machine learning, adversarial machine learning, test, evaluation, verification and validation (TEV&V) for deep learning-based intelligent systems.
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
