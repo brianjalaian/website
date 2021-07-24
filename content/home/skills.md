@@ -16,30 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 100% 
-  icon: robot
-  icon_pack: fas
-  name: Deep Learning
 - description: 100%
-  icon: chart-line
+  icon: users-cog
   icon_pack: fas
-  name: Math, Stat & Optimization
+  name: Technical Leadership
 - description: 100%
   icon: users
   icon_pack: fas
-  name: Lead Machine Learning Teams
+  name: Team Building & Team work
+- description: 100% 
+  icon: robot
+  icon_pack: fas
+  name: Deep/Machine Learning Researcher
+- description: 100%
+  icon: chart-line
+  icon_pack: fas
+  name: Quantitative Research
 - description: 100%
   icon: python
   icon_pack: fab
   name: Python, PyTorch & TensorFlow
 - description: 100%
-  icon: user-lock
+  icon: shield-alt
   icon_pack: fas
-  name: AI Safety & Security
-- description: 100%
-  icon: keyboard
-  icon_pack: fas
-  name: Linux Admin and Networking
+  name: AI Assurance, Safety, & Security
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
