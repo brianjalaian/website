@@ -26,7 +26,7 @@ summary: ""
 
 tags: ["Graph Convolutional Network", "GCN", "Deep Learning", "Supervised Machine Learning", "Machine Learning"]
 categories: []
-featured: false
+featured: True
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
