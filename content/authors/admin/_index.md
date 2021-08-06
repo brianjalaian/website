@@ -18,9 +18,9 @@ bio: My  research interests are optimization, machine learning, and network scie
 
 # Interests to show in About widget
 interests:
-- Safe, Robust, Resilient and Assured Artificial Intelligence
+- Safety and security of Artificial Intelligence
 - Uncertainty quantification for machine learning
-- Bayesian Inference
+- Deep learning, Self-supervised learning, machine learning
 - Bayesian Deep Learning
 - Optimization
 - Complex Network Optimization

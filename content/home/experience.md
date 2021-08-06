@@ -32,7 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Conduct basic research on Safe, Robust, and Resilient Artificial Intelligence
+        * Perform research on deep learning specifically on Bayesian Neural Network (BNN), adversarial machine learning, robust and resilient AI
         * Design novel framework for test and evaluation of machine learning for mission critical application
         * Technical advisor and subject matter expert on artificial intelligence assurance
 
@@ -46,10 +46,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Perform basic research on adversarial machine learning and Bayesian deep learning
-        * Lead a research group focusing on uncertainty quantification for machine learning
-        * Technical Research Lead for a [IoBT CRA](https://iobt.illinois.edu/)
-        * Lead a team of 15 PIs from prestigious universities, multiple Ph.D. students, and Post-docs on robust and resilient machine learning 
+        * Perform basic research on deep learning, uncertainty quantification for machine learning, adversarial machine learning and Bayesian deep learning
+        * Lead a research group focusing on uncertainty quantification for machine learning that Elevated the importance of risk-aware artificial intelligence at the laboratory (ARL) level in addition the  DoD (OSD)
+        * Technical Research Lead for a [IoBT CRA](https://iobt.illinois.edu/): leading research on Safe, Robust and Resilient AI. Collaborating with academics from University of Illinois Urbana-Champaign, University of California Los Angeles, University of Southern California,  University of Massachusetts Amherst, Purdue University, Carnegie Mellon University, Stanford  and SRI International
+
   - title: Adjunct Assistant Professor
     company: Virginia Tech
     company_url: 'https://www.vt.edu'
